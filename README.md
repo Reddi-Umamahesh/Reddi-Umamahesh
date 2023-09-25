@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Reddi-Umamahesh
-- 👀 I’m interested in webdevelopment and Solving DSA problems 
+- 👀 I’m interested in WEB-development and Solving DSA problems 
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on GSOC-2024
 - 📫 How to reach me mail: maheshreddi608@gmail.com
